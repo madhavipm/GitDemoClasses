@@ -1,4 +1,6 @@
 Captions
 Resolutions
 Channels
-Buffering Spped
+Buffering Speed
+Community
+
